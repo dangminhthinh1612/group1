@@ -19,6 +19,8 @@ gem "faker"
 gem "kaminari"
 gem "bootstrap-kaminari-views"
 gem "devise"
+gem "cancancan"
+gem "rolify"
 
 
 gem "bootsnap", ">= 1.4.2", require: false
